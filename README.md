@@ -1,5 +1,4 @@
-# Chatting program
-<hr>
+# Chatting program<hr>
 
 <h2> Introduction</h2>
 I made chatting program. This program has chatting functions with (type:UTF-8). If you reset IP and port number, you can connect and chat with another person. 
@@ -7,6 +6,7 @@ I made chatting program. This program has chatting functions with (type:UTF-8). 
 
 <h2>Tech Stack </h2> 
 JAVA
+
 
 
 * Server Side
